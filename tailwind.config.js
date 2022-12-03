@@ -6,7 +6,7 @@ module.exports = {
       backgroundImage: {
         "home-bg": "url('./images/home-bg.jpg')",
         "mobile-bg": "url('./images/mobile-bg.jpg')",
-        parallax1: "url('./Interior-Design-Parallax.jpg')",
+        parallax1: "url('./images/Interior-Design-Parallax.jpg')",
       },
       fontFamily: {
         montserrat: "Montserrat",
