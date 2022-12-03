@@ -4,9 +4,9 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        "home-bg": "url('./images/home-bg.jpg')",
-        "mobile-bg": "url('./images/mobile-bg.jpg')",
-        parallax1: "url('./images/Interior-Design-Parallax.jpg')",
+        "home-bg": "url('../public/images/home-bg.jpg')",
+        "mobile-bg": "url('../public/images/mobile-bg.jpg')",
+        parallax1: "url('../public/images/Interior-Design-Parallax.jpg')",
       },
       fontFamily: {
         montserrat: "Montserrat",
